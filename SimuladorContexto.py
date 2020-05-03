@@ -52,7 +52,7 @@ def isHorarioComercial(horario):
     else:
         return False
 
-
+#traduz os dias da semana
 def verificaLocalVitima(data):
     DIAS = [
     'Segunda-feira',
